@@ -101,6 +101,14 @@ footer {
     h2 {
         font-size: 24px;
     }
+
+    .input__css {
+        width: 100%;
+    }
+
+    .bttn_css {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 300px) {
